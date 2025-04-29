@@ -8,9 +8,9 @@ Untuk menguji klaim tersebut, tim quality control melakukan survei terhadap 60 p
 Hasil survei menunjukkan bahwa rata-rata skor kepuasan pelanggan adalah 83,  
 dan berdasarkan data survei sebelumnya, standar deviasi populasi skor kepuasan diketahui sebesar 10.
 
-a) Hitunglah Confidence Interval 95% untuk rata-rata skor kepuasan pelanggan pada platform e-commerce ini.
+- Hitunglah Confidence Interval 95% untuk rata-rata skor kepuasan pelanggan pada platform e-commerce ini.
 
-b) Apakah hasil survei tersebut mendukung klaim perusahaan bahwa skor kepuasan pelanggan minimal adalah 80?  
+- Apakah hasil survei tersebut mendukung klaim perusahaan bahwa skor kepuasan pelanggan minimal adalah 80?  
    Jelaskan secara kuantitatif dan logis.
 
 ---
